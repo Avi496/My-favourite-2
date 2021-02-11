@@ -1,0 +1,15 @@
+body {
+    background-color: crimson;
+    text-align: center;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: grab;
+}
+li:hover {
+    background-color: aqua;
+}
